@@ -1,0 +1,9 @@
+
+State Machine - |zadanie|discharge_flag
+Name discharge_flag.000 discharge_flag.100 discharge_flag.011 discharge_flag.010 discharge_flag.001 discharge_flag.101 
+discharge_flag.101 0 0 0 0 0 0 
+discharge_flag.001 0 0 0 0 1 1 
+discharge_flag.010 0 0 0 1 0 1 
+discharge_flag.011 0 0 1 0 0 1 
+discharge_flag.100 0 1 0 0 0 1 
+discharge_flag.000 1 0 0 0 0 1 

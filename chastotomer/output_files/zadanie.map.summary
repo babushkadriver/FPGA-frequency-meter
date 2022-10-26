@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed Jul 07 11:29:57 2021
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Full Version
+Revision Name : zadanie
+Top-level Entity Name : zadanie
+Family : Cyclone IV E
+Total logic elements : 279
+    Total combinational functions : 247
+    Dedicated logic registers : 126
+Total registers : 126
+Total pins : 20
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
